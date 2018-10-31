@@ -5,7 +5,7 @@ CodeForces contests run for short time and thus there's crunch of time to do wel
 All scripts are running in background.
 
 - Download these files in a folder named CFHelper.
-- Open your Chrome Browser and go to [][chrome://extensions].
+- Open your Chrome Browser and go to [chrome://extensions](chrome://extensions).
 - Click on Load Unpacked and open the CFHelper Folder.
 - You are all set. 
 - Happy Coding !! 
